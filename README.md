@@ -6,9 +6,9 @@ The goal of this project is to practice and solidify my learnings on every lesso
 
 ## Project outcomes:
 
-- getting familiar with elements and tags
+- get familiar with elements and tags
 - use HTML boilerplate to save some time and create the initial structure
 - use the appropriate textual tags
 - use list for steps and ingredients
 - use links for navigating through recipes and homepage
-- practicing atomic commits
+- practice atomic commits
